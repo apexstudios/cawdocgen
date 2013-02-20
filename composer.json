@@ -15,5 +15,11 @@
         "psr-0": {
             "CaWDocGen": "src/"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/apexstudios/yamwlib"
+        }
+    ]
 }
