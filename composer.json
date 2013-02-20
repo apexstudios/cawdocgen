@@ -1,0 +1,13 @@
+{
+    "name": "apexstudios/cawdocgen",
+    "description": "A great way to generate the documentation for Apex Studios' Covenant at War project",
+    "authors": [
+        {
+            "name": "Anh Nhan Nguyen",
+            "email": "anhnhan@outlook.com"
+        }
+    ],
+    "require": {
+
+    }
+}
