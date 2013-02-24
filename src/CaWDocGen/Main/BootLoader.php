@@ -1,7 +1,7 @@
 <?php
 namespace CaWDocGen\Main;
 
-use CaWDocGen\Cli\Lib\CliArgs;
+use YamwLibs\Libs\Cli\CliArgs;
 
 /**
  * @author AnhNhan <anhnhan@outlook.com>
